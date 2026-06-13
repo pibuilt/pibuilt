@@ -160,23 +160,6 @@ Published with Springer in the field of Network Security and Machine Learning.
 
 ## 🌱 Contribution Evolution
 
-<!-- Replace with your generated Game of Life SVG/GIF -->
-
 <p align="center">
-  <img src="./assets/game-of-life.svg" alt="Game of Life Contribution Animation"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:works.piyushb@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/piyush-bhuyan-216445230">LinkedIn</a> •
-  <a href="https://github.com/pibuilt">GitHub</a> •
-  <a href="https://leetcode.com/u/piyuxonius">LeetCode</a>
-</p>
-
-<p align="center">
-  <i>Building AI systems that solve real problems, not just demos.</i>
+  <img src="https://raw.githubusercontent.com/pibuilt/pibuilt/output/game-of-life.svg" alt="Game of Life"/>
 </p>
