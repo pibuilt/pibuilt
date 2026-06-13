@@ -161,5 +161,5 @@ Published with Springer in the field of Network Security and Machine Learning.
 ## 🌱 Contribution Evolution
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pibuilt/pibuilt/output/game-of-life.svg" alt="Game of Life"/>
+  <img src="https://raw.githubusercontent.com/pibuilt/pibuilt/main/game.gif" alt="Game of Life" width="800"/>
 </p>
