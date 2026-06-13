@@ -17,7 +17,7 @@ AI Engineer • Building Production-Grade GenAI Systems
   <a href="https://leetcode.com/u/piyuxonius">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://pibuilt.github.io/pibuilt-piyush_portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
