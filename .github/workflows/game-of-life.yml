@@ -1,24 +1,22 @@
-name: Generate Game of Life
+name: Update Game of Life Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  update-game:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Game of Life
-        uses: yshrsmz/Game-of-Life@main
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v4
 
-      - name: Commit generated files
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: apoupon/gh-game-of-life@v1.1.0
         with:
-          commit_message: "generate game of life"
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: 'game.gif'
+          strategy: 'loop'
