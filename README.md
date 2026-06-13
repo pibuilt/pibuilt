@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Bhuyan</h1>
 
 <h3 align="center">
-AI Engineer • GenAI Systems • Agent Workflows • Backend Engineering
+AI Engineer • Building Production-Grade GenAI Systems
 </h3>
 
 <p align="center">
@@ -17,10 +17,17 @@ AI Engineer • GenAI Systems • Agent Workflows • Backend Engineering
   <a href="https://leetcode.com/u/piyuxonius">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Building+Production-Grade+GenAI+Systems;RAG+%7C+LangGraph+%7C+Agentic+Workflows;Cloud+Infrastructure+%7C+Backend+Engineering;Always+Learning+Something+New" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pibuilt&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -58,35 +65,35 @@ Focused on delivering reliable, observable, and scalable AI-powered customer sup
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ### AI & Machine Learning
 
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/-LangGraph-121D33?style=flat-square)
-![LangSmith](https://img.shields.io/badge/-LangSmith-000000?style=flat-square)
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikitlearn)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-121D33?style=flat-square)
+![LangSmith](https://img.shields.io/badge/LangSmith-121212?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 ### Backend & Data
 
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 ### Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ---
 
@@ -113,23 +120,6 @@ Published with Springer in the field of Network Security and Machine Learning.
 - Intrusion Detection Systems
 - Machine Learning
 - Cybersecurity Analytics
-
----
-
-## 💼 Experience
-
-### Keyloop India
-
-**Infrastructure Engineer**
-
-- Automating operational workflows and cloud infrastructure processes
-- Supporting production services and continuous improvement initiatives
-- Building AI-driven automation solutions
-
-**Software Developer Intern**
-
-- Developed backend services and automation tooling
-- Collaborated across engineering teams on scalable software solutions
 
 ---
 
@@ -162,4 +152,10 @@ Published with Springer in the field of Network Security and Machine Learning.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pibuilt/pibuilt/main/game.gif" alt="Game of Life" width="800"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Building AI systems that solve real problems, not just demos.</i>
 </p>
