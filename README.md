@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Piyush Bhuyan</h1>
 
 <h3 align="center">
-AI Engineer @ Keyloop
+AI Engineer @ Keyloop • Building Agentic AI Systems, RAG Platforms & Scalable Backend Infrastructure
 </h3>
-
-<p align="center">
-Building Agentic AI Systems, RAG Platforms & Scalable Backend Infrastructure
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/piyush-bhuyan-216445230">
@@ -27,7 +23,7 @@ Building Agentic AI Systems, RAG Platforms & Scalable Backend Infrastructure
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=AI+Incident+Automation;Agentic+Workflows+%7C+LangGraph;RAG+Systems+%7C+Vector+Search;Backend+Engineering+%7C+Infrastructure" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Building+Production-Grade+GenAI+Systems;RAG+%7C+LangGraph+%7C+Agentic+Workflows;Cloud+Infrastructure+%7C+Backend+Engineering;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
@@ -38,11 +34,11 @@ Building Agentic AI Systems, RAG Platforms & Scalable Backend Infrastructure
 
 ## 🚀 About Me
 
-- 💼 Associate Infrastructure Engineer at **Keyloop**
-- 🤖 Building AI-powered automation systems for enterprise operations
+- 💼 Infrastructure Engineer at **Keyloop**
 - 🎓 B.E. Information Technology, Vasavi College of Engineering
 - ☁️ AWS Certified Cloud Practitioner
-- 🌱 Exploring Agentic AI, RAG, LangGraph, AI Observability & Backend Architecture
+- 🤖 Building production-focused AI applications and developer tools
+- 🌱 Currently exploring Agentic AI, RAG, LangGraph, and AI Observability
 - 🎯 Long-term goal: Build impactful AI products at scale
 
 ---
@@ -58,54 +54,57 @@ Building Agentic AI Systems, RAG Platforms & Scalable Backend Infrastructure
 
 ---
 
-## 🔨 Featured Work
+## 🔨 Currently Building
 
-### 🚀 SupportPilot
+### AI Customer Support Platform
 
-Production-grade multi-tenant AI SaaS platform featuring:
+A production-grade SaaS platform featuring:
 
-- LangGraph Agent Orchestration
 - Retrieval-Augmented Generation (RAG)
-- Semantic Search & Vector Retrieval
-- LangSmith Observability
-- Grafana Monitoring
-- Async Processing with Celery
-- RBAC & API Key Management
-- Rate Limiting & Guardrails
+- LangGraph orchestration
+- Vector search
+- LangSmith tracing
+- Grafana monitoring
+- Rate limiting and guardrails
+- Multi-source knowledge ingestion
 
-### ⚖️ ContractGuard
-
-AI-powered contract intelligence platform leveraging semantic retrieval and clause analysis for legal document workflows.
-
-### 📈 Credit Risk ML Platform
-
-End-to-end machine learning platform featuring:
-
-- Explainable AI with SHAP
-- Model Versioning using DVC
-- FastAPI Deployment
-- S3-backed Artifact Management
-- Production-ready Inference Pipelines
+Focused on delivering reliable, observable, and scalable AI-powered customer support.
 
 ---
 
-## 🛠️ Core Technologies
+## 🛠️ Tech Stack
 
-### AI Engineering
+### Languages
 
-LangGraph • LangChain • OpenAI • LangSmith • RAG • Vector Search
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-### Backend Engineering
+### AI & Machine Learning
 
-FastAPI • PostgreSQL • Redis • pgvector • REST APIs • Celery
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-121D33?style=flat-square)
+![LangSmith](https://img.shields.io/badge/LangSmith-121212?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-### Machine Learning
+### Backend & Data
 
-PyTorch • Scikit-Learn • Pandas • NumPy • SHAP
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### Cloud & Infrastructure
+### Cloud & DevOps
 
-AWS • Docker • GitHub Actions • Linux • Grafana
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ---
 
@@ -113,21 +112,9 @@ AWS • Docker • GitHub Actions • Linux • Grafana
 
 | Project | Description |
 |----------|-------------|
-| 🚀 **SupportPilot** | Multi-tenant AI SaaS platform with LangGraph orchestration, RAG, observability, async processing, and enterprise controls |
-| ⚖️ **ContractGuard** | AI-powered contract analysis platform using semantic retrieval and legal clause intelligence |
-| 📈 **Credit Risk ML** | Explainable machine learning platform with SHAP, DVC, FastAPI, and deployment-ready inference |
+| 🚀 **AI Customer Support Platform** | Production-grade SaaS platform using RAG, LangGraph orchestration, vector search, observability, and guardrails |
+| 📈 **Credit Risk ML** | End-to-end machine learning pipeline with explainability, model evaluation, and deployment-ready outputs |
 | ✈️ **Flight Delay Prediction Platform** | Predictive analytics platform for flight delay forecasting and operational insights |
-
----
-
-## 🎯 Current Focus
-
-- Agentic AI Systems
-- Multi-Agent Workflows
-- Retrieval-Augmented Generation
-- AI Observability
-- Backend Architecture
-- Production AI Reliability
 
 ---
 
@@ -140,7 +127,6 @@ Published with Springer in the field of Network Security and Machine Learning.
 🔗 https://link.springer.com/chapter/10.1007/978-3-032-18282-1_2
 
 **Research Areas**
-
 - Network Security
 - Intrusion Detection Systems
 - Machine Learning
@@ -153,6 +139,23 @@ Published with Springer in the field of Network Security and Machine Learning.
 - AWS Certified Cloud Practitioner
 - SAFe 6 Practitioner
 - NPTEL — Joy of Computing Using Python (Elite + Silver)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pibuilt&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pibuilt&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=pibuilt&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pibuilt&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
