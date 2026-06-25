@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Bhuyan</h1>
 
 <h3 align="center">
-AI Engineer @ Keyloop • Building Agentic AI Systems, RAG Platforms & Scalable Backend Infrastructure
+AI and Backend Systems @ Keyloop • Building Agentic AI Systems, RAG Platforms & Scalable Backend Infrastructure
 </h3>
 
 <p align="center">
