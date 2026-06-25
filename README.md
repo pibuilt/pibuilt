@@ -34,7 +34,7 @@ AI and Backend Systems @ Keyloop • Building Agentic AI Systems, RAG Platforms 
 
 ## 🚀 About Me
 
-- 💼 AI Engineer at **Keyloop**
+- 💼 Currently building A.I. solutions for Infrastructure team @ **Keyloop**
 - 🎓 B.E. Information Technology, Vasavi College of Engineering
 - ☁️ AWS Certified Cloud Practitioner
 - 🤖 Building production-focused AI applications and developer tools
