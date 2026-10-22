@@ -1,6 +1,6 @@
 # Piyush Bhuyan
 
-`Applied AI Engineer · Hyderabad, India`
+`Applied AI Engineer @ Keyloop · Hyderabad, India`
 
 > I build production AI systems: agent orchestrators, RAG platforms, and the backend and observability that keep them running.
 
@@ -14,17 +14,17 @@
 
 ## Selected work
 
-### [SupportPilot](https://github.com/pibuilt/supportpilot)
-
-Multi-tenant AI support platform with LangGraph orchestration, retrieval, RBAC, and observability.
-
-`Python` `FastAPI` `PostgreSQL` `pgvector` `Redis` `LangGraph`
-
 ### [Pispyre](https://github.com/pibuilt/pispyre)
 
 Static analysis that catches hallucinated, moved, and dead Python imports before the code runs.
 
 `Python` `AST` `PyPI` `SARIF` `GitHub Actions`
+
+### [SupportPilot](https://github.com/pibuilt/supportpilot)
+
+Multi-tenant AI support platform with LangGraph orchestration, retrieval, RBAC, and observability.
+
+`Python` `FastAPI` `PostgreSQL` `pgvector` `Redis` `LangGraph`
 
 ### [Credit Risk ML](https://github.com/pibuilt/credit-risk-ml)
 
